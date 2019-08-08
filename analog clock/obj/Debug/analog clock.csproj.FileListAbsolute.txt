@@ -1,0 +1,29 @@
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\bin\Debug\analog clock.exe.config
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\obj\Debug\analog_clock.Form1.resources
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\obj\Debug\analog_clock.Properties.Resources.resources
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\obj\Debug\analog clock.csproj.GenerateResource.Cache
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\bin\Debug\analog clock.exe
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\bin\Debug\analog clock.pdb
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\obj\Debug\analog clock.exe
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\obj\Debug\analog clock.pdb
+C:\Users\bcs2\Desktop\cg sc9937\w12\analog clock\analog clock\obj\Debug\analog clock.csprojResolveAssemblyReference.cache
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\bin\Debug\analog clock.exe.config
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\bin\Debug\analog clock.exe
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\bin\Debug\analog clock.pdb
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\obj\Debug\analog clock.csprojResolveAssemblyReference.cache
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\obj\Debug\analog_clock.Form1.resources
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\obj\Debug\analog_clock.Properties.Resources.resources
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\obj\Debug\analog clock.csproj.GenerateResource.cache
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\obj\Debug\analog clock.csproj.CoreCompileInputs.cache
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\obj\Debug\analog clock.exe
+C:\Users\Rochi\Desktop\bcs21\vs\analog clock\analog clock\obj\Debug\analog clock.pdb
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\bin\Debug\analog clock.exe.config
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\bin\Debug\analog clock.exe
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\bin\Debug\analog clock.pdb
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\obj\Debug\analog clock.csprojResolveAssemblyReference.cache
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\obj\Debug\analog_clock.Form1.resources
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\obj\Debug\analog_clock.Properties.Resources.resources
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\obj\Debug\analog clock.csproj.GenerateResource.cache
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\obj\Debug\analog clock.csproj.CoreCompileInputs.cache
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\obj\Debug\analog clock.exe
+C:\Users\Rochi\Desktop\computer graphics\analog clock\analog clock\obj\Debug\analog clock.pdb
